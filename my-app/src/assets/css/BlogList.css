@@ -1,0 +1,17 @@
+.first{
+    background-image: url("https://littlebigworld.in/wp-content/uploads/2021/11/Listening-to-veggies-story.jpg");
+    height: 700px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+.firstcontainer{
+    padding-top: 100px;
+}
+.rowfirst{
+    background-color: rgba(255, 255, 255, 0.5);
+}
+h1{
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
